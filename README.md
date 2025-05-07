@@ -1,4 +1,4 @@
-![Banner GitHub](mariapaula/imagem_banner.png)
+![Banner GitHub](banner.png)
 
 
 <h1 align="center"> Maria Paula Azevedo</h1>
