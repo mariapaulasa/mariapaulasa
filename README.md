@@ -1,4 +1,7 @@
-<h1 align="center">👩‍💻 Maria Paula Azevedo</h1>
+![Banner GitHub](banner.png)
+
+
+<h1 align="center"> Maria Paula Azevedo</h1>
 <p align="center">
   Cientista de Dados | Engenheira de Testes | Data-Driven Problem Solver
 </p>
@@ -8,6 +11,8 @@
   <a href="mailto:mariapaulasa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=mariapaulasa&style=flat" alt="profile views" />
 </p>
+
+
 
 ---
 
